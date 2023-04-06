@@ -149,7 +149,7 @@ nav {
 
 .movements__date {
   font-size: 1.1rem;
-  text-transform: uppercase;
+  text-transform: capitalize;
   font-weight: 500;
   color: #666;
 }
